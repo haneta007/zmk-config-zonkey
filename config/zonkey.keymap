@@ -189,7 +189,7 @@
 &trans        &trans    &trans  &lt 5 INT_HENKAN  &lt 4 SPACE  &lt 1 INT_MUHENKAN            &trans  &trans                               &moBSLH
             >;
 
-            sensor-bindings = <&inc_dec_kp RIGHT_ARROW LEFT_ARROW>;
+            sensor-bindings = <&inc_dec_kp RIGHT LEFT>;
         };
 
         layer_2 {
